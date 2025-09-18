@@ -175,7 +175,7 @@ endmodule
 <img width="1920" height="1080" alt="Screenshot 2025-09-16 095533" src="https://github.com/user-attachments/assets/8a849cee-8e37-449d-b783-ea8b987133af" />
 
 
-(Insert waveform screenshot here after running simulation in ModelSim)
+
 
 ---
 
